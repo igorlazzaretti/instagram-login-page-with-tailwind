@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>DevClub - Tailwind</title>
-    <meta name="description" content="Estudo de Tailwind CSS, replicando a tela inicial do Instagram (instagram.com) com orientação do @canaldevclub - Curso de Tailwind CSS">
+    <meta name="description"
+        content="Estudo de Tailwind CSS, replicando a tela inicial do Instagram (instagram.com) com orientação do @canaldevclub - Curso de Tailwind CSS">
     <meta name="keywords" content="tailwind, tailwind css, css, html, instagram">
 
     <link rel="icon" type="image/x-icon" href="./src/images/favicon.png">
@@ -15,11 +16,13 @@
 </head>
 
 <body>
+    <!-- TAG MAIN for all the website -->
     <main class="h-screen w-screen grid grid-cols-1 md:grid-cols-2 grid-rows-6">
+        <!-- Div for Big Image -->
         <div class="row-span-5 hidden md:flex justify-end items-center">
             <img class="max-w-xs" src="src/images/main-image.png">
         </div>
-
+        <!-- Right Div for Form, Sign Up and App Download -->
         <div class="row-span-5 flex flex-col justify-center md:items-center grid-cols-1">
             <form class="w-80 flex flex-col justify-center items-center border rounded-sm px-10 py-4 gap-5">
 
@@ -49,7 +52,7 @@
                 </div>
             </div>
         </div>
-
+        <!-- Footer Last Row using Both Columns -->
         <footer class="row-span-1 col-span-2 mt-4">
             <ul class="flex flex-wrap gap-5 justify-center">
                 <li class="text-stone-500 text-xs cursor-pointer">Meta</li>
@@ -70,7 +73,8 @@
                 <li class="text-stone-500 text-xs">
                     Access the author's portfolio:</li>
                 <a href="https://igorlazzaretti.com" target="_blank">
-                    <li class="text-stone-500 text-xs">igorlazzaretti.com</li> </a>
+                    <li class="text-stone-500 text-xs">igorlazzaretti.com</li>
+                </a>
             </ul>
         </footer>
     </main>
