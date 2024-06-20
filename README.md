@@ -13,7 +13,7 @@ Projeto que tem objetivo de fornecer um primeiro contato com o framework Tailwin
 Alguns conteúdos foram alterados para fins de personalização;
 
 - Como instalei o Tailwind? <a href="https://igorlazzaretti.github.io/meus-cadernos-devclub/assets/notebooks/tailwind.html"> Aqui</a>.
-- Vídeo neste <a href="https://www.youtube.com/watch?v=SUavcwCCLN8&t=3302s"> link</a>. 
+- Vídeo no Youtube da Aula: <a href="https://www.youtube.com/watch?v=SUavcwCCLN8&t=3302s"> Aqui</a>. 
 
 
 ## Tecnologias Utilizadas
@@ -62,8 +62,7 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 <div align="center">
 
-<img  width="210" src="https://github.com/igorlazzaretti/Meu-Site-Portfolio-igorlazzaretti.com/blob/main/assets/readmes/devclubico.png"> 
-</div>
+<img  width="210" src="https://github.com/igorlazzaretti/Meu-Site-Portfolio-igorlazzaretti.com/blob/main/assets/readmes/devclubico.png"> </div>
 
 
 ## Sobre o Idealizador do Curso
@@ -76,7 +75,7 @@ Hoje o meu propósito é ajudar o máximo de pessoas a transformarem suas vidas 
 
 
 <div align="center">
-<img src="./assets/readme/rodolfomoriM.png" width="160" style="border-radius:60px"><br><a href="https://github.com/igorlazzaretti/Meu-Site-Portfolio-igorlazzaretti.com/blob/main/assets/readmes/rodolfomori.png?raw=true" target="_blank">Rodolfo Mori</a>
+<img src="https://github.com/igorlazzaretti/Meu-Site-Portfolio-igorlazzaretti.com/blob/main/assets/readmes/rodolfomori.png?raw=true" width="160" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori</a>
 </div>
 <div align="center" >
 
